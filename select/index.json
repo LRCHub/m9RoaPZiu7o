@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Christmas Eve",
+  "base_artist": "Pentatonix",
+  "createdAt": "2026-02-08T13:30:34.401791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Christmas Eve",
+      "artist": "Gorky’s Zygotic Mynci",
+      "has_synced": false,
+      "path": "select/01_Christmas_Eve_Gorky’s_Zygotic_Mynci.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Christmas Eve (Sarajevo 12/24)",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/02_Christmas_Eve_(Sarajevo_12_24)_Savatage.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Christmas Eve (Sarajevo 12\u000024)",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/03_Christmas_Eve_(Sarajevo_12\u000024)_Savatage.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Christmas Eve (Sarajevo 12-24) (Instrumental)",
+      "artist": "Savatage",
+      "has_synced": false,
+      "path": "select/04_Christmas_Eve_(Sarajevo_12-24)_(Instrumental)_Savatage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Christmas Eve",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/05_Christmas_Eve_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Christmas Eve 2019",
+      "artist": "White Town",
+      "has_synced": false,
+      "path": "select/06_Christmas_Eve_2019_White_Town.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Christmas Eve",
+      "artist": "Trans-Siberian Orchestra",
+      "has_synced": false,
+      "path": "select/07_Midnight_Christmas_Eve_Trans-Siberian_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Ghosts Of Christmas Eve",
+      "artist": "Trans-Siberian Orchestra",
+      "has_synced": true,
+      "path": "select/08_The_Ghosts_Of_Christmas_Eve_Trans-Siberian_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Lost Christmas Eve",
+      "artist": "Trans-Siberian Orchestra",
+      "has_synced": true,
+      "path": "select/09_The_Lost_Christmas_Eve_Trans-Siberian_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Noel: Christmas Eve, 1913",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/10_Noel__Christmas_Eve,_1913_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Noel - Christmas Eve, 1913",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/11_Noel_-_Christmas_Eve,_1913_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Noel: Christmas Eve, 1913",
+      "artist": "John Denver & The Muppets",
+      "has_synced": true,
+      "path": "select/12_Noel__Christmas_Eve,_1913_John_Denver_&_The_Muppets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Christmas Eve",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/13_Christmas_Eve_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Christmas Eve",
+      "artist": "Celine Dion",
+      "has_synced": true,
+      "path": "select/14_Christmas_Eve_Celine_Dion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Christmas in Dixie",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/15_Christmas_in_Dixie_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Christmas in Prison",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/16_Christmas_in_Prison_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Christmas in Prison (LP Version)",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/17_Christmas_in_Prison_(LP_Version)_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hard Candy Christmas",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/18_Hard_Candy_Christmas_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "My Private Christmas Song",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/19_My_Private_Christmas_Song_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Merry Christmas",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/20_Merry_Christmas_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Merry Christmas",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/21_Merry_Christmas_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Christmas In Hollis",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/22_Christmas_In_Hollis_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Christmas Song",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/23_Christmas_Song_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Everything Is One Big Christmas Tree",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/24_Everything_Is_One_Big_Christmas_Tree_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "She Came Home for Christmas",
+      "artist": "MEW",
+      "has_synced": true,
+      "path": "select/25_She_Came_Home_for_Christmas_MEW.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "She Came Home For Christmas",
+      "artist": "Mew",
+      "has_synced": false,
+      "path": "select/26_She_Came_Home_For_Christmas_Mew.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Christmas Truce",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/27_Christmas_Truce_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Christmas Celebration",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/28_Christmas_Celebration_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Christmas Comes But Once a Year",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/29_Christmas_Comes_But_Once_a_Year_B.B._King.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Christmas Eve",
+      "artist": "Pentatonix",
+      "has_synced": false,
+      "path": "select/pl_01_Christmas_Eve_Pentatonix.txt"
+    }
+  ]
+}
